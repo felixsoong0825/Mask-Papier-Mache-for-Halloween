@@ -212,3 +212,28 @@ A 40 cm cut is only a planning allowance. Deep faces may require more length or 
 At the last check, the faster Homey Mart paper and Bacofoil trial roll showed **14 October** delivery. Harris brushes showed fastest delivery **13 October**. Many other listed items showed 13–15 October options. The selected crimp listing showed only **three packs remaining**, exactly the proposed order quantity.
 
 These were address-dependent page estimates, not reservations or delivery promises. Check the whole order before committing to the production calendar. Buy no substitute crimp based only on its length or external diameter; it must fit the actual folded flat elastic.
+
+### Shipping packaging — TBC (pending decision)
+
+**Status: TBC.** The products below are candidates only; packaging size, protective performance and purchase quantities have not been confirmed. No packaging has been ordered. This is a separate estimate and **does not change or form part of the £137.76 working production budget or the £150 materials target**.
+
+Ordinary unbranded mailing bags can be used for eBay orders. For these hollow paper masks, trial a **corrugated box with cushioning paper**, with an optional outer mailing bag for moisture protection. A flexible mailing bag alone provides no meaningful protection against crushing. Keep the nose clear of the box walls and cushion the mask so it cannot move freely. [eBay UK packing guidance](https://www.ebay.co.uk/help/selling/posting-items/labels-packaging-tips/packing-sold-items?id=4156)
+
+Reference prices checked on **12 October 2026**, using one-time purchases:
+
+| Candidate — all TBC | Listed specification | Pack price | Approximate unit cost | Delivery shown | Amazon UK |
+|---|---|---:|---:|---|---|
+| G4GOODS grey self-seal mailing bags | 100 bags; 16 × 21 inches / 406 × 533 mm; advertised thickness 50–55 microns | £10.75 | 10.75p | 16 October | [Mailing bags](https://www.amazon.co.uk/dp/B0C8V4HLBB) |
+| Triplast single-wall corrugated boxes | 25 flat-packed boxes; title and description state 305 × 229 × 102 mm / 12 × 9 × 4 inches | £14.29 | 57.16p | 16–19 October | [Cardboard boxes](https://www.amazon.co.uk/dp/B01DUEOQHU) |
+
+**Illustrative cost for 200 separately shipped masks:** eight packs of boxes (£114.32) plus two packs of bags (£21.50) = **£135.82**, or about **68p per shipment**, before tape, cushioning, labels, delivery charges and postage. This is an estimate for exactly 200 shipments, not the 220 production starts. Buying boxes alone would cost £114.32 before those extras; decide whether the outer bag is needed after the packaging trial.
+
+Before ordering in bulk:
+
+- Measure the largest finished mask in all three designs, including nose depth, and allow room for cushioning without pressure on the shell.
+- Confirm the box's usable internal dimensions. The Amazon specification table conflicts with the title and description, so the dimensions above are not a verified fit.
+- Test the bag over the packed box. A flat bag must accommodate the box's depth as well as its width and length, with enough material left to seal.
+- Trial packing, handling and unpacking a finished mask; check for dents, rubbing of the paint and movement inside the box. Confirm the final packed dimensions and weight before choosing postage.
+- To reduce cost, consider clean, sound reused boxes and cushioning paper, removing or covering old labels. Do not rely on damaged or softened boxes.
+
+Delivery dates are address-dependent estimates; free delivery shown on the pages was conditional on an eligible first order. Confirm the actual checkout total and arrival date. **Final packaging choice and budget remain TBC.**
